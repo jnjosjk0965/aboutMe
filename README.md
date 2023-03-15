@@ -7,4 +7,4 @@
 # 수상현황
 
 # 취미
-<img src="amg.jpg">
+<img src="amg.jpg" width="50%" height="auto">
