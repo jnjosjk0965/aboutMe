@@ -5,6 +5,7 @@
 # 내가 수강한 과목
 
 # 수상현황
-
+[발표PPT업로드연습](/presentation.pptx)
+발표동영상업로드연습
 # 취미
 <img src="amg.jpg" width="50%" height="auto">
